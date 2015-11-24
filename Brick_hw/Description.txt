@@ -1,0 +1,4 @@
+Pixie Computer
+
+Embedded computer based on Allwinner A13 CPU.
+
